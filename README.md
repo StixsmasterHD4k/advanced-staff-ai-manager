@@ -1,3 +1,5 @@
+MAJER UPDATE: I AM AWARE THIS MOD/PLUGIN IN ITS CURRENT RELEASE STATE IS FAILING TO HIRE STAFF AS INTENDED. I AM ATTEMPTING TO FIX IT. IT MAY TAKE SUM TIME SO TILL THEN I PERSONALLY SUGGEST AVOIDING THIS PLUGIN.
+
 The Staff AI Manager is a powerful OpenRCT2 plugin that provides intelligent, automated management of all park staff types. It analyzes your park in real-time, automatically assigns patrol zones, dispatches staff to problem areas, and can even auto-hire staff based on park needs.
 
 This plugin transforms staff management from a tedious manual task into an intelligent automated system that keeps your park clean, rides maintained, guests happy, and vandals at bay - all without constant micromanagement.
@@ -107,4 +109,5 @@ Global Controls:
 ✅ Auto Gen Zones
 🔘 Re-analyze Park (manual)
 🔘 Reset Statistics
+
 🔘 Generate Zones (manual)
